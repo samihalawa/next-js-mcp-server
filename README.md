@@ -1,5 +1,7 @@
 # ⚡ Next.js MCP Server - Full-Stack React Framework Integration for AI Assistants
 
+[![smithery badge](https://smithery.ai/badge/@samihalawa/next-js-mcp-server)](https://smithery.ai/server/@samihalawa/next-js-mcp-server)
+
 **Advanced Model Context Protocol server for Next.js development - Project scaffolding, component generation, and full-stack development automation through AI assistants.**
 
 ## 🚀 Overview
@@ -44,6 +46,15 @@ Next.js MCP Server enables AI assistants to work seamlessly with Next.js project
 
 ## 🚀 Quick Start
 
+### Installing via Smithery
+
+To install Next.js MCP Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@samihalawa/next-js-mcp-server):
+
+```bash
+npx -y @smithery/cli install @samihalawa/next-js-mcp-server --client claude
+```
+
+### Installing manually
 ```bash
 # Install dependencies
 npm install
